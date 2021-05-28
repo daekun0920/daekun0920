@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies
+### Skills
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
