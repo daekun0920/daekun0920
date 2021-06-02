@@ -12,8 +12,8 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-000?style=for-the-badge&&logo=Spring)
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&&logo=Django)
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&&logo=Amazon-AWS&logoColor=F90)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React)
 ![jQuery](https://img.shields.io/badge/-Jquery-000?style=for-the-badge&&logo=Jquery&logoColor=007ACC)
 
