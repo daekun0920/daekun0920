@@ -16,6 +16,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&&logo=Amazon-AWS&logoColor=F90)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&&logo=React)
 ![jQuery](https://img.shields.io/badge/-Jquery-000?style=for-the-badge&&logo=Jquery&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&&logo=Docker&logoColor=007ACC)
 
 ### More
 
